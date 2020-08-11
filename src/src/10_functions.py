@@ -19,4 +19,4 @@ def is_even(num):
    else:
         print(num," is an odd")
 
-is_even(5)
+is_even(num)
